@@ -1,2 +1,1 @@
-# anims
-practising angular animaons
+Practising angular animations
